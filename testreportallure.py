@@ -58,3 +58,6 @@ class TestWebsite:
 # allure serve C:\Users\Mysense\PycharmProjects\Python_Basic\Reports
 # allure serve .\Reports
 # npm install -g allure-commandline
+
+# allure serve /Users/akshaydhiman/Desktop/Pytest-XYZBank/Allure_Report
+
